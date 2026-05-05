@@ -1,16 +1,92 @@
-# React + Vite
+# 🚀 Animated React Website (Ochi Design Clone)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive web application inspired by Ochi Design, built using **React (Vite)** with smooth and interactive animations powered by **Framer Motion** and **GSAP**, styled using **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* ⚡ Fast performance with Vite
+* 🎨 Fully responsive design using Tailwind CSS
+* 🎬 Advanced animations with GSAP & Framer Motion
+* 🧩 Component-based architecture (React JSX)
+* 🌐 Clean and modern UI inspired by Ochi Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React (JSX)
+* Vite
+* Tailwind CSS
+* GSAP (GreenSock Animation Platform)
+* Framer Motion
+
+---
+
+## 📂 Project Structure
+
+Main source code is available here:
+👉 https://github.com/sakshilondhe47-hash/Ochi_Design_Clone/tree/main/src
+
+```bash
+src/
+ ├── assets/        # Images, icons, etc.
+ ├── components/    # Reusable UI components
+ ├── App.jsx        # Main app component
+ ├── main.jsx       # Entry point
+ └── index.css      # Global styles
+
+public/             # Static files
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/sakshilondhe47-hash/Ochi_Design_Clone.git
+cd Ochi_Design_Clone
+npm install
+```
+
+---
+
+## ▶️ Run the Project
+
+```bash
+npm run dev
+```
+
+---
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+
+
+## 📸 Preview
+
+<img width="1899" height="911" alt="Screenshot 2026-05-05 233703" src="https://github.com/user-attachments/assets/7dde5149-d476-4ae9-852f-a68c047c3d3f" />
+<img width="1900" height="905" alt="Screenshot 2026-05-05 233729" src="https://github.com/user-attachments/assets/9a8d3733-f08a-4640-91bc-0980dc38a803" />
+
+
+
+---
+
+
+
+
+## 👨‍💻 Author
+
+Sakshii Londhe
+GitHub: https://github.com/sakshilondhe47-hash
+
+---
